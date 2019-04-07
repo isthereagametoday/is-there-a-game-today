@@ -1,0 +1,22 @@
+{
+  "name": "isthereagametoday",
+  "version": "1.0.0",
+  "description": "http://isthereagame.today",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isthereagametoday/is-there-a-game-today.git"
+  },
+  "author": "Mica A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isthereagametoday/is-there-a-game-today/issues"
+  },
+  "homepage": "https://github.com/isthereagametoday/is-there-a-game-today#readme",
+  "dependencies": {
+    "@google-cloud/firestore": "1.2.0"
+  }
+}
